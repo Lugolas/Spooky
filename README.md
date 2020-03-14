@@ -2,7 +2,7 @@
 
 > Spooky experience with spooky fps mechanics
 
-[![First Look](FirstLook.png)]()
+![First Look](FirstLook.png)
 
 **Controls**
 
